@@ -1,4 +1,3 @@
 # ImageRetrieval
-
 ## Requirements
 - Tensorflow
